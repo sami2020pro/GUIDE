@@ -2,20 +2,29 @@
 Lorem Ipsum
 
 # Rust
+<a href="https://github.com/sami2020pro/parsclick-article-rust">parsclick article rust</a>
 
 # JavaScript
+<a href="https://github.com/sami2020pro/movie-app-web">movie app web</a>
 
-# Python 
+<a href="https://github.com/sami2020pro/purple-heart-rain-app">purple heart rain app</a>
+
+<a href="https://github.com/sami2020pro/recipe-app">recipe app</a>
+
+<a href="https://github.com/sami2020pro/quiz-app">quiz app</a>
 
 # Common Lisp
+<a href="https://github.com/sami2020pro/calculator-lisp">calculator lisp</a>
+
+# Pashmak
+<a href="https://github.com/sami2020pro/polor-pashm">polor pashm</a>
 
 # Go
+<a href="https://github.com/sami2020pro/suftime">suftime</a>
 
-# C
+<a href="https://github.com/sami2020pro/gmoji">gmoji</a> (Documents and fontawesome versione need update) 
 
-# C++
-
-# Dart
+<a href="https://github.com/sami2020pro/spad-interview-task">spad interview task</a>
 
 # Software
 
