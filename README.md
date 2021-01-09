@@ -31,3 +31,8 @@ Forked repo are not included here and the placement of the guide is not based on
 # Software
 
 ### Blender
+
+# Organizations
+<a href="https://github.com/pashmaklang">The Pashmak Programming Language</a>
+
+<a href="https://github.com/vite-framework">The Vite Framework</a>
