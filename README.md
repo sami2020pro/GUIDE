@@ -1,5 +1,7 @@
 # GUIDE
-Lorem Ipsum
+This is a repository for your guidance.
+
+Forked repo are not included here and the placement of the guide is not based on the power and rank of languages ​​or software or ... and is **RANDOM**.
 
 # Rust
 <a href="https://github.com/sami2020pro/parsclick-article-rust">parsclick article rust</a>
