@@ -25,7 +25,7 @@ The placement of the guide is not based on the power and rank of languages â€‹â€
 # Go
 <a href="https://github.com/sami2020pro/suftime">suftime</a>
 
-<a href="https://github.com/sami2020pro/gmoji">gmoji</a> (Documents and fontawesome versione need update) 
+<a href="https://github.com/sami2020pro/gmoji">gmoji</a> (Documents need update) 
 
 <a href="https://github.com/sami2020pro/spad-interview-task">spad interview task</a>
 
