@@ -16,6 +16,9 @@ The placement of the guide is not based on the power and rank of languages â€‹â€
 
 <a href="https://github.com/sami2020pro/quiz-app">quiz app</a>
 
+# Vala
+<a href="https://github.com/sami2020pro/isla">isla</a>
+
 # Common Lisp
 <a href="https://github.com/sami2020pro/calculator-lisp">calculator lisp</a>
 
