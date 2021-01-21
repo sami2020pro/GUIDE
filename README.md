@@ -32,6 +32,9 @@ The placement of the guide is not based on the power and rank of languages â€‹â€
 
 <a href="https://github.com/sami2020pro/spad-interview-task">spad interview task</a>
 
+# Other
+<a href="https://github.com/sami2020pro/hw">hello world program in several different languages</a>
+
 # Software
 
 ### Blender
