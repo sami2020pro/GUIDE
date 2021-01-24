@@ -36,6 +36,9 @@ The placement of the guide is not based on the power and rank of languages â€‹â€
 
 <a href="https://github.com/sami2020pro/topus">Topus programming language</a>
 
+# D
+<a href="https://github.com/sami2020pro/dlang-example">dlang example</a>
+
 # Other
 <a href="https://github.com/sami2020pro/hw">hello world program in several different languages</a>
 
