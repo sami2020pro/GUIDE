@@ -48,6 +48,8 @@ The placement of the guide is not based on the power and rank of languages â€‹â€
 # Other
 <a href="https://github.com/sami2020pro/hw">hello world program in several different languages</a>
 
+<a href="https://github.com/sami2020pro/pashmak-nanorc">pashmak support for GNU nano editor</a>
+
 # Software
 
 ### Blender
