@@ -49,6 +49,8 @@ The placement of the guide is not based on the power and rank of languages â€‹â€
 
 <a href="https://github.com/sami2020pro/pashmak-nanorc">pashmak support for GNU nano editor</a>
 
+<a href="https://github.com/sami2020pro/vscode-pashmak">pashmak support for Visual Studio Code</a>
+
 # Software
 
 ### Blender
