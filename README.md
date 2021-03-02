@@ -18,9 +18,6 @@ The placement of the guide is not based on the power and rank of languages â€‹â€
 
 <a href="https://github.com/sami2020pro/silicium-app">silicium app</a>
 
-# Python
-<a href="https://github.com/sami2020pro/moova">moova</a>
-
 # Vala
 <a href="https://github.com/sami2020pro/isla">isla</a>
 
